@@ -4,8 +4,8 @@ import '../../../common/color_extension.dart';
 import '../next_workout.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_database/firebase_database.dart';
-import 'package:fitness_app/view/workout_tracker/Fullbody_workouts/full_jp.dart';
-import 'package:fitness_app/view/workout_tracker/Fullbody_workouts/full_kpu.dart';
+import 'package:FitnessX_App/view/workout_tracker/Fullbody_workouts/full_jp.dart';
+import 'package:FitnessX_App/view/workout_tracker/Fullbody_workouts/full_kpu.dart';
 
 class full_ipu extends StatefulWidget {
   @override

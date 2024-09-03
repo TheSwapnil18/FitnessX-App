@@ -1,5 +1,5 @@
 import 'package:dotted_dashed_line/dotted_dashed_line.dart';
-import 'package:fitness_app/view/workout_tracker/workout_tracker_view.dart';
+import 'package:FitnessX_App/view/workout_tracker/workout_tracker_view.dart';
 import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

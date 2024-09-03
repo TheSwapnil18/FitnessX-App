@@ -5,7 +5,7 @@ import '../../../common/color_extension.dart';
 import '../workout_tracker_view.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_database/firebase_database.dart';
-import 'package:fitness_app/view/workout_tracker/Fullbody_workouts/full_cs.dart';
+import 'package:FitnessX_App/view/workout_tracker/Fullbody_workouts/full_cs.dart';
 
 class full_chs extends StatefulWidget {
   @override

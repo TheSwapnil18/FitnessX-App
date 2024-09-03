@@ -1,4 +1,4 @@
-import 'package:fitness_app/view/login/benefits.dart';
+import 'package:FitnessX_App/view/login/benefits.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import '../../common/color_extension.dart';

@@ -1,4 +1,4 @@
-import 'package:fitness_app/view/workout_tracker/arm_workouts/arm_i.dart';
+import 'package:FitnessX_App/view/workout_tracker/arm_workouts/arm_i.dart';
 import 'package:flutter/material.dart';
 import 'package:video_player/video_player.dart';
 import '../../../common/color_extension.dart';

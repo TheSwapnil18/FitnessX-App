@@ -5,7 +5,7 @@ import '../../../common/color_extension.dart';
 import '../next_workout.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_database/firebase_database.dart';
-import 'package:fitness_app/view/workout_tracker/lowerbody_workouts/lower_squats_12.dart';
+import 'package:FitnessX_App/view/workout_tracker/lowerbody_workouts/lower_squats_12.dart';
 
 class lower_jp extends StatefulWidget {
   @override

@@ -1,8 +1,8 @@
-import 'package:fitness_app/common_widget/round_button2.dart';
-import 'package:fitness_app/view/dashboard/home/profile.dart';
-import 'package:fitness_app/view/workout_tracker/arm_workout.dart';
-import 'package:fitness_app/view/workout_tracker/chest_workout.dart';
-import 'package:fitness_app/view/workout_tracker/shoulder_workout.dart';
+import 'package:FitnessX_App/common_widget/round_button2.dart';
+import 'package:FitnessX_App/view/dashboard/home/profile.dart';
+import 'package:FitnessX_App/view/workout_tracker/arm_workout.dart';
+import 'package:FitnessX_App/view/workout_tracker/chest_workout.dart';
+import 'package:FitnessX_App/view/workout_tracker/shoulder_workout.dart';
 import 'package:flutter/material.dart';
 import '../../common/color_extension.dart';
 import '../view/workout_tracker/abs_workout.dart';

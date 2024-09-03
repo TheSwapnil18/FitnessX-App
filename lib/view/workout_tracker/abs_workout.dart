@@ -1,6 +1,6 @@
 import 'package:firebase_database/firebase_database.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:fitness_app/view/workout_tracker/abs_workouts/abs_jj.dart';
+import 'package:FitnessX_App/view/workout_tracker/abs_workouts/abs_jj.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart'; // Import the intl package for date formatting
 import 'package:youtube_player_flutter/youtube_player_flutter.dart';

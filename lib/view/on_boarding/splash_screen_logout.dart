@@ -1,6 +1,6 @@
 import 'dart:async';
-import 'package:fitness_app/common/color_extension.dart';
-import 'package:fitness_app/view/on_boarding/welcome_screen.dart';
+import 'package:FitnessX_App/common/color_extension.dart';
+import 'package:FitnessX_App/view/on_boarding/welcome_screen.dart';
 import 'package:flutter/material.dart';
 
 import '../dashboard/home/home.dart';

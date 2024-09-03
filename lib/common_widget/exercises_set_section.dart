@@ -1,7 +1,7 @@
 
 import 'dart:math';
 
-import 'package:fitness_app/common_widget/exercises_row.dart';
+import 'package:FitnessX_App/common_widget/exercises_row.dart';
 import 'package:flutter/material.dart';
 
 import '../../common/color_extension.dart';

@@ -1,8 +1,8 @@
-import 'package:fitness_app/view/meal_planner/model.dart';
-import 'package:fitness_app/view/meal_planner/recipe_view.dart';
+import 'package:FitnessX_App/view/meal_planner/model.dart';
+import 'package:FitnessX_App/view/meal_planner/recipe_view.dart';
 import 'package:flutter/material.dart';
-import 'package:fitness_app/view/meal_planner/model.dart';
-import 'package:fitness_app/view/meal_planner/meal_food_details_view.dart';
+import 'package:FitnessX_App/view/meal_planner/model.dart';
+import 'package:FitnessX_App/view/meal_planner/meal_food_details_view.dart';
 import  '../../common/color_extension.dart';
 import '../../common_widget/round_button.dart';
 import 'package:url_launcher/url_launcher.dart';

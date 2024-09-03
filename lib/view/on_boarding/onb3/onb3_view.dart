@@ -1,5 +1,5 @@
-import 'package:fitness_app/view/on_boarding/onb3/onb3_page.dart';
-import 'package:fitness_app/view/on_boarding/onb4/onb4_view.dart';
+import 'package:FitnessX_App/view/on_boarding/onb3/onb3_page.dart';
+import 'package:FitnessX_App/view/on_boarding/onb4/onb4_view.dart';
 import 'package:flutter/material.dart';
 import '../../../common/color_extension.dart';
 

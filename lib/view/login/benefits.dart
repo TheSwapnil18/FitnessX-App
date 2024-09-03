@@ -1,6 +1,6 @@
 import 'package:carousel_slider/carousel_slider.dart';
-import 'package:fitness_app/common/color_extension.dart';
-import 'package:fitness_app/view/login/login_view.dart';
+import 'package:FitnessX_App/common/color_extension.dart';
+import 'package:FitnessX_App/view/login/login_view.dart';
 import 'package:flutter/material.dart';
 import '../../common_widget/round_button.dart';
 import 'complete_profile_view.dart';

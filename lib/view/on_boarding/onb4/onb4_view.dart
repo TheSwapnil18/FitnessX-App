@@ -1,6 +1,6 @@
-import 'package:fitness_app/view/login/login_view.dart';
-import 'package:fitness_app/view/login/benefits.dart';
-import 'package:fitness_app/view/on_boarding/onb4/onb4_page.dart';
+import 'package:FitnessX_App/view/login/login_view.dart';
+import 'package:FitnessX_App/view/login/benefits.dart';
+import 'package:FitnessX_App/view/on_boarding/onb4/onb4_page.dart';
 import 'package:flutter/material.dart';
 import '../../../common/color_extension.dart';
 import '../../login/signup_view.dart';

@@ -1,5 +1,5 @@
-import 'package:fitness_app/view/workout_tracker/shoulder_workouts/sh_kpu.dart';
-import 'package:fitness_app/view/workout_tracker/shoulder_workouts/sh_sr.dart';
+import 'package:FitnessX_App/view/workout_tracker/shoulder_workouts/sh_kpu.dart';
+import 'package:FitnessX_App/view/workout_tracker/shoulder_workouts/sh_sr.dart';
 import 'package:flutter/material.dart';
 import 'package:video_player/video_player.dart';
 import 'dart:async';

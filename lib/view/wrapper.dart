@@ -1,6 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:FitnessX_App/view/on_boarding/splash_screen_login.dart';
-import 'package:FitnessX_App/view/on_boarding/splash_screen_logout.dart';
+import 'package:fitness_app/view/on_boarding/splash_screen_login.dart';
+import 'package:fitness_app/view/on_boarding/splash_screen_logout.dart';
 import 'package:flutter/material.dart';
 
 import 'dashboard/home/home.dart';

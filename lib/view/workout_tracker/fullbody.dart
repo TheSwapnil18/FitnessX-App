@@ -1,7 +1,7 @@
-import 'package:FitnessX_App/view/workout_tracker/Fullbody_workouts/full_jp.dart';
+import 'package:fitness_app/view/workout_tracker/Fullbody_workouts/full_jp.dart';
 import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 import  '../../common/color_extension.dart';
-import 'package:FitnessX_App/view/workout_tracker/exercises_step_details.dart';
+import 'package:fitness_app/view/workout_tracker/exercises_step_details.dart';
 import 'package:flutter/material.dart';
 import '../../common_widget/exercises_set_section.dart';
 import '../../common_widget/round_button.dart';

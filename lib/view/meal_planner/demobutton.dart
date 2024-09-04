@@ -1,4 +1,4 @@
-import 'package:FitnessX_App/view/meal_planner/meal_food_details_view.dart';
+import 'package:fitness_app/view/meal_planner/meal_food_details_view.dart';
 import 'package:flutter/material.dart';
 
 import '../../common/color_extension.dart';

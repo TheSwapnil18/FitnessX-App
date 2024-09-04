@@ -1,5 +1,5 @@
-import 'package:FitnessX_App/view/workout_tracker/arm_workouts/arm_accc.dart';
-import 'package:FitnessX_App/view/workout_tracker/arm_workouts/arm_td.dart';
+import 'package:fitness_app/view/workout_tracker/arm_workouts/arm_accc.dart';
+import 'package:fitness_app/view/workout_tracker/arm_workouts/arm_td.dart';
 import 'package:flutter/material.dart';
 import 'package:video_player/video_player.dart';
 import 'dart:async';

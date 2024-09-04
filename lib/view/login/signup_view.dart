@@ -1,7 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:FitnessX_App/common_widget/round_button.dart';
-import 'package:FitnessX_App/common_widget/round_textfield.dart';
-import 'package:FitnessX_App/view/login/login_view.dart';
+import 'package:fitness_app/common_widget/round_button.dart';
+import 'package:fitness_app/common_widget/round_textfield.dart';
+import 'package:fitness_app/view/login/login_view.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import '../../common/color_extension.dart';

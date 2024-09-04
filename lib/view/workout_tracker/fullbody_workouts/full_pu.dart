@@ -3,8 +3,8 @@ import 'package:video_player/video_player.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:intl/intl.dart';
-import 'package:FitnessX_App/view/workout_tracker/Fullbody_workouts/full_wdpu.dart';
-import 'package:FitnessX_App/common/color_extension.dart';
+import 'package:fitness_app/view/workout_tracker/Fullbody_workouts/full_wdpu.dart';
+import 'package:fitness_app/common/color_extension.dart';
 import '../next_workout.dart';
 import 'full_kpu.dart';
 

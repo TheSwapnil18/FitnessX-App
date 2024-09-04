@@ -1,6 +1,6 @@
-import 'package:FitnessX_App/common/color_extension.dart';
-import 'package:FitnessX_App/view/on_boarding/notification_controller.dart';
-import 'package:FitnessX_App/view/wrapper.dart';
+import 'package:fitness_app/common/color_extension.dart';
+import 'package:fitness_app/view/on_boarding/notification_controller.dart';
+import 'package:fitness_app/view/wrapper.dart';
 import 'package:awesome_notifications/awesome_notifications.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';

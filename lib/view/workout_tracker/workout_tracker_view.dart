@@ -1,6 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:FitnessX_App/common_widget/round_button.dart';
-import 'package:FitnessX_App/view/workout_tracker/workout_schedule_view.dart';
+import 'package:fitness_app/common_widget/round_button.dart';
+import 'package:fitness_app/view/workout_tracker/workout_schedule_view.dart';
 import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
 import '../../common/color_extension.dart';

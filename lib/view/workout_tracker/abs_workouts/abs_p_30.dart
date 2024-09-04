@@ -1,5 +1,5 @@
-import 'package:FitnessX_App/view/workout_tracker/abs_workouts/abs_cs.dart';
-import 'package:FitnessX_App/view/workout_tracker/abs_workouts/abs_lr_14.dart';
+import 'package:fitness_app/view/workout_tracker/abs_workouts/abs_cs.dart';
+import 'package:fitness_app/view/workout_tracker/abs_workouts/abs_lr_14.dart';
 import 'package:flutter/material.dart';
 import 'package:video_player/video_player.dart';
 import 'dart:async';

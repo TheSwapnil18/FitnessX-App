@@ -1,5 +1,5 @@
-import 'package:FitnessX_App/view/login/forget_password.dart';
-import 'package:FitnessX_App/view/login/login_view.dart';
+import 'package:fitness_app/view/login/forget_password.dart';
+import 'package:fitness_app/view/login/login_view.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import '../../common/color_extension.dart';

@@ -1,5 +1,5 @@
-import 'package:FitnessX_App/common_widget/round_button.dart';
-import 'package:FitnessX_App/common_widget/round_button2.dart';
+import 'package:fitness_app/common_widget/round_button.dart';
+import 'package:fitness_app/common_widget/round_button2.dart';
 import 'package:flutter/material.dart';
 import '../../common/color_extension.dart';
 import '../view/meal_planner/resultpage.dart';

@@ -1,6 +1,6 @@
-import 'package:FitnessX_App/common/color_extension.dart';
-import 'package:FitnessX_App/common_widget/round_button.dart';
-import 'package:FitnessX_App/view/on_boarding/onb1/onb1_view.dart';
+import 'package:fitness_app/common/color_extension.dart';
+import 'package:fitness_app/common_widget/round_button.dart';
+import 'package:fitness_app/view/on_boarding/onb1/onb1_view.dart';
 import 'package:flutter/material.dart';
 import 'package:page_transition/page_transition.dart';
 

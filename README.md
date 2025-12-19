@@ -99,7 +99,12 @@ Use issues to report bugs or suggest enhancements.
 
 ## 🤝 License & Attribution
 
+<!--
+## 🤝 License & Attribution
+
 This repository does not include a top-level license file. If you want to open-source this project, add a license (for example, `MIT`) to the repository root.
+
+-->
 
 ---
 

@@ -97,8 +97,6 @@ Use issues to report bugs or suggest enhancements.
 
 ---
 
-## 🤝 License & Attribution
-
 <!--
 ## 🤝 License & Attribution
 
